@@ -7,7 +7,7 @@
 • **Frecuencia**: Es un problema recurrente ya que la mayoria voto entre 4 y 3. <br> <br>
 • **La Solución Soñada**: Mandar una alerta si excedo un presupuesto, mostrar el saldo total y que me bloquee un monto de mi dinero para administrarme mejor. <br> <br>
 • **Resultados de la Sonda**: <br><br>
----------------------| [Encuesta de Optimización de Procesos](https://docs.google.com/forms/d/10zuDW9VACOIqx05xtcGjTUaZegAUlDsNBXljZ1miNAA/edit?hl=es#responses) |---------------------- <br> <br>
+---------------------| [Encuesta de Optimización de Procesos](https://docs.google.com/spreadsheets/d/1gLMafPEXDfeensKZ_wbRI_yAOAwsRdJFyzzU8YO-yNU/edit?usp=sharing) |---------------------- <br> <br>
 • **Resumen**: En estas respuestas podemos encontrar que el 60% de los participantes tienen problemas con la gestión del dinero, y que la mayoria de estos no saben en que gastan su dinero o no saben como administrarlo para poder ahorrar y no excederse.
 
 ### 2. Definición Funcional Historia de Usuario Principal
